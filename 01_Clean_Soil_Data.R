@@ -7,6 +7,5 @@ library(ggplot2)
 global(firewall)
 write.csv("...")
 
-#erroneous code
 # read in additional soil data
 df2<-read.csv("...")
